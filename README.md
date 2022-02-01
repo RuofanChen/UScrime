@@ -1,4 +1,4 @@
-# STAT5225_crime_data_project
+# US_crime_data_project
 Contributors: Ruofan Chen, Liquan Zhong, Sara Rahim
 
 This is a group project exploring the FBI US crime dataset from 1995 to 2019. **You can view the application [here](https://liz19009.shinyapps.io/uscrime_copy).**
